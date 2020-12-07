@@ -1,6 +1,6 @@
 /*
-	Author : Meet Akbari (AU1841073)
-			 Mayankkumar Tank (AU1841057)
+		
+	Author : Mayankkumar Tank (AU1841057) , Meet Akbari (AU1841073)
 	Section 1 : Group 5
 	Course : Computer Networks Lab | 5th semester 
 	Organization : School of Engineering and Applied Science, Ahmedabad University, India.
